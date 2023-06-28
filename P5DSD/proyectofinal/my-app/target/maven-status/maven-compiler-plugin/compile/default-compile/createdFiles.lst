@@ -1,0 +1,13 @@
+common/Aggregator.class
+common/SerializationUtils.class
+frontEnd/ServerContainer.class
+frontEnd/auxiliares/Text.class
+frontEnd/WebServer.class
+frontEnd/FrontendSearchResponse.class
+frontEnd/auxiliares/BooksClass$Books.class
+frontEnd/FrontendSearchRequest.class
+backEnd/Servicio.class
+common/Aggregator$Task.class
+common/Client.class
+frontEnd/ServerContainer$Action.class
+frontEnd/auxiliares/BooksClass.class
